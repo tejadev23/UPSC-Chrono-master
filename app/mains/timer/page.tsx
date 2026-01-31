@@ -166,7 +166,7 @@ export default function MainsTimerPage() {
       
       {/* Warning text */}
       <p className="text-gray-500 text-xs text-center max-w-xs">
-        Session cannot be paused. Back/refresh will reset your progress.
+        Session cannot be paused. Back/refresh will reset your progress. So, you should finish the session in one go.
       </p>
       
       {/* Exit confirmation modal */}
